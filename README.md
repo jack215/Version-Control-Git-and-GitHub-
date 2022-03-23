@@ -1,1 +1,1 @@
-# Version-Control-Git-and-GitHub-
+# This is my repository for the Version-Control-Git-and-GitHub assignment
